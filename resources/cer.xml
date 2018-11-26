@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+    <BasicNode>
+        <Node Remark="文件编号">123</Node>
+        <Node Remark="证照名称">aaa</Node>
+    </BasicNode>
+    <ExtendNode>
+        <Node Remark="证照废止列表地址">abolishedurl</Node>
+        <Node Remark="证照在线查询地址">queryurl</Node>
+    </ExtendNode>
+</Root>
